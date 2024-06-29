@@ -2,7 +2,19 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "Unlocked01",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": ""
+    },
+    {
+      "path": "force-app",
+      "package": "Unlocked02",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""      
     }
   ],
   "name": "AppTest1",

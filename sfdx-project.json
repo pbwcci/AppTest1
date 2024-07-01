@@ -14,11 +14,22 @@
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
       "default": false,
-      "versionDescription": ""      
+      "versionDescription": ""
+    },
+    {
+      "path": "force-app/main/default",
+      "package": "Unlocked03",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
     }
   ],
   "name": "AppTest1",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "61.0"
+  "sourceApiVersion": "61.0",
+  "packageAliases": {
+    "Unlocked03": "0HodM00000009hdSAA"
+  }
 }

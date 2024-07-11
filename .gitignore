@@ -43,3 +43,10 @@ $RECYCLE.BIN/
 **/__pycache__/
 **/.venv/
 **/venv/
+
+# VS Code
+.lsp/
+
+## clj
+.clj-kondo/
+

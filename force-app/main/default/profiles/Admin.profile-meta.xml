@@ -11,6 +11,11 @@
         <field>GH_Product_Type__c.Type_Code__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>GH_Product__c.Price__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>GH_Product_Category__c-GH Product Category Layout</layout>
     </layoutAssignments>
